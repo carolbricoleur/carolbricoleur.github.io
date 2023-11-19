@@ -22,14 +22,14 @@ author:
 hero: true # To disable hero section use value false
 hero-title: 
 hero-description: 
-hero-image: 'https://github.com/carolbricoleur/carolbricoleur.github.io/blob/02221460a6e324b254f1323412df97962c73e229/images/capa_bricolagem.png'
+hero-image: 'images/capa_bricolagem.png'
 
 
 #-------------------------------
 # Footer section
 # Example of adding a new link to the footer - {name: "Github", icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com
-footer-image: 'https://via.placeholder.com/1920x1080'
+footer-image: 'images/capa_bricolagem.png'
 contact:
 - {name: "Twitter", icon: "ion-logo-twitter", link: "https://twitter.com"}
 - {name: "Facebook", icon: "ion-logo-facebook", link: "https://facebook.com"}
