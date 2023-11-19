@@ -20,9 +20,9 @@ author:
 #-------------------------------
 # Hero section
 hero: true # To disable hero section use value false
-hero-title: Hello, my name is Caitlin
-hero-description: This is my personal blog and photo journal
-hero-image: 'https://via.placeholder.com/1920x1080'
+hero-title: 
+hero-description: 
+hero-image: 'https://github.com/carolbricoleur/carolbricoleur.github.io/blob/02221460a6e324b254f1323412df97962c73e229/images/capa_bricolagem.png'
 
 
 #-------------------------------
